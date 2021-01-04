@@ -5,6 +5,7 @@ Final Project:
 This project is about The Meta Analysis data of SCIP flep(superficial circumflex iliac artery perforator) treatments made all over the world available until January 2018. You can reach to these datas which are like Countries, Article names etc., easily from this Project.
 
 -To provide a brief users guide describing in sufficient detail what each View/Stored procedure does.
+
 https://images2.imgbox.com/f9/e7/NN3BKRD1_o.png
 I created this view, because we can see easily which gender is more than the other one for a FlapType. And it can help us to see the relation between gender and flap type.
 
